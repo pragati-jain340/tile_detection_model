@@ -6,8 +6,8 @@ __pycache__/
 
 # Model weights & datasets
 checkpoints/
-dataset_train/
-dataset_test/
+# dataset_train/
+# dataset_test/
 *.pth
 *.zip
 
