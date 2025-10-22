@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Model weights & datasets
+checkpoints/
+dataset_train/
+dataset_test/
+*.pth
+*.zip
+
+# OS / IDE files
+.vscode/
+.DS_Store
+
+# Jupyter / cache
+.ipynb_checkpoints/
